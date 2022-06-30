@@ -35,6 +35,7 @@ const HeaderNavigation = () => {
     </div>
   );
 };
+// TODO: Read post about animations https://www.joshwcomeau.com/animation/css-transitions/
 
 export default function Navigation() {
   return (
